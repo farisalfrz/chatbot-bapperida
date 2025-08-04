@@ -7,7 +7,7 @@ function Chatbot() {
   const [input, setInput] = useState("");
 
   const API_URL = "https://openrouter.ai/api/v1/chat/completions";
-  const API_KEY = "Bearer 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";
+  const API_KEY = `Bearer ${process.env.REACT_APP_OPENROUTER_API_KEY}`;
 
   const SYSTEM_PROMPT = `
     Kamu adalah Chatbot resmi Bapperida Kota Bandung (Bappelitbang).
