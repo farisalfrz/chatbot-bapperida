@@ -6,7 +6,6 @@ Chatbot Bapperida adalah aplikasi chatbot berbasis React yang dibuat untuk memba
 
 ## Fitur
 - **Tanya Jawab FAQ** (dengan tombol shortcut FAQ).
-- **Integrasi AI OpenRouter** untuk pertanyaan di luar FAQ.
 - **Filter Jawaban** agar hanya fokus pada Bapperida Kota Bandung.
 - **UI Responsif** dengan warna identitas Bapperida.
 - **Hosting Gratis** (Vercel/Netlify/GitHub Pages).
@@ -15,7 +14,6 @@ Chatbot Bapperida adalah aplikasi chatbot berbasis React yang dibuat untuk memba
 
 ## Teknologi yang Digunakan
 - **React.js** (Frontend)
-- **OpenRouter API** (Backend AI)
 - **CSS Inline Styling** (Custom + Bootstrap/Tailwind opsional)
 
 ---
